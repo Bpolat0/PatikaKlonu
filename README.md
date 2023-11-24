@@ -9,7 +9,7 @@
 Bu proje, Java programlama dili ile JDBC, Swing ve Object-Oriented Programming (OOP) konularını öğrenmek amacıyla oluşturulmuştur.
 
 ### NOT : BU PROJE DOSYALARI DAHA TAM BİTMEYEN BİR PROJEYE AİTTİR. LÜTFEN LİNKTEKİ GELİŞMİŞ PROJEYİ İNCELEYİNİZ.
-[Tourism Management System](<https://github.com/Bpolat0/TourismManagement>)
+[Tourism Management System](<link>)
 
 ## Proje Açıklaması
 
@@ -41,7 +41,8 @@ Proje, aşağıdaki gibi bir dosya ve klasör yapısına sahiptir:
 
 ## Eksikler ve İlerleme
 
-Daha gelişmiş versiyonları ve güncellemeleri görmek için [gelişmiş proje](<https://github.com/Bpolat0/TourismManagement>) bağlantısına göz atabilirsiniz.
+Daha gelişmiş versiyonları ve güncellemeleri görmek için [Tourism Management System](<link>)
+bağlantısına göz atabilirsiniz.
 
 Herhangi bir geri bildiriminiz veya katkınız varsa lütfen paylaşmaktan çekinmeyin!
 
